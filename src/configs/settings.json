@@ -1,0 +1,7 @@
+{
+  "mongoURL": "mongodb+srv://kweezyshare:kweezyshare@cluster0.uthigbl.mongodb.net/?retryWrites=true&w=majority",
+  "clientID": "1122874213536125049",
+  "token": "MTEyMjg3NDIxMzUzNjEyNTA0OQ.G9pQqW.mINqAoWWm_Uj8idkbWqr6mQQHAiF79PbWqbYG8",
+  "secret": "XtagBFEtzjAiHMUFmhRYKak-3_2SRgP6",
+  "callbackURL": "https://kweezyshare.rf.gd/callback"
+}
